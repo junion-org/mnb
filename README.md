@@ -1,0 +1,4 @@
+mnb
+===
+
+Multinomial Naive Bayes
