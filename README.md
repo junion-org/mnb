@@ -4,7 +4,7 @@ mnb
 Multinomial Naive Bayes
 
 # usage
-train mode
+###train mode
     ./mnb.py --train [options] data model
-predict mode
+###predict mode
     ./mnb.py --predict [options] data model
