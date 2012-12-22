@@ -84,7 +84,7 @@ def predict(y, x, model):
                     v += num * q_wc[w][c]
             if v > max:
                 max = v
-                max_c = int(c)
+                max_c = c
             p_val.append(v)
         # 推定クラスを記録
         p_labs.append(max_c)
